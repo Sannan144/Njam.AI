@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'thick';
+    src: url('/fonts/Inter-Bold.latin-UCM45LQF.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'medium';
+    src: url('/fonts/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'thin';
+    src: url('/fonts/QGYvz_MVcBeNP4NJtEtq.woff2') format('woff2');
+}
+
+*{
+    box-sizing: border-box;
+}
+
+html,body{
+    width:100%;
+    height:100%;
+}
+
+

@@ -7,6 +7,7 @@ import SecondPage from './SecondSection/SecongPage'
 import Testimonial from './Testimonial/Testimonial'
 import ThirdPage from './ThirdPage/ThirdPage'
 import Footer from './Footer/Footer'
+import ScrollText from './ScrollText/ScrollText'
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <SecondPage/>
       <ThirdPage/>
       <FAQ/>
+      <ScrollText/>
       <Testimonial/>
       <Footer/>
     </div>

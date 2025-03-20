@@ -12,7 +12,8 @@ const ThirdPage = () => {
             gsap.from(imag,{
                 y:'100%',
                 duration:1,
-                ease:'elastic.in',
+                opacity:0,
+                ease:'expo.inOut',
                 scrollTrigger:{
                     trigger:imag,
                 }
